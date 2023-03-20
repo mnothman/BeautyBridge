@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "477918184302",
+    "project_id": "beautyinclusive",
+    "storage_bucket": "beautyinclusive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477918184302:android:f7fa3786f7cd0f6588b77f",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477918184302-jjnito6765lt1a6cocfqoc9qgd4493nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3flQlMleXewiS35ITltuMM7mWXTh6Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477918184302-jjnito6765lt1a6cocfqoc9qgd4493nl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477918184302-0ogstm8ogf1bem2c00tg2hmja061okog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
